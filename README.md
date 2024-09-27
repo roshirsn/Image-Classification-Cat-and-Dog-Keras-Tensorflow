@@ -8,7 +8,7 @@ The objective of this project is to build a CNN that can accurately classify ima
 
 ## Dataset
 
-check out kaggle 
+link: https://drive.google.com/drive/u/0/folders/1dZvL1gi5QLwOGrfdn9XEsi4EnXx535bD
 
 ### Dataset Structure
 
