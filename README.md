@@ -22,7 +22,9 @@ The model architecture is a Sequential CNN consisting of the following layers:
 1. Convolutional layers for feature extraction
 2. MaxPooling layers to down-sample the feature maps
 3. Fully connected layers for classification
-4. Output layer with a softmax activation function to produce probabilities for the two classes (cat or dog)
+4. Used Binary Crossentropy
+5. Optimizer : Adam
+6. Output layer with a softmax activation function to produce probabilities for the two classes (cat or dog)
 
 ## Installation
 
